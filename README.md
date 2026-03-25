@@ -24,7 +24,7 @@ Perfect for developers, designers, and creatives who want a **modern, minimal, a
 
 ### 🔹 Developer Portfolio
 
-* Repo: [https://github.com/your-user/nextjs-developer-portfolio](https://github.com/ENTWOY/nextjs-developer-portfolio)
+* Repo: [https://github.com/your-user/nextjs-developer-portfolio](link)
 * Demo: https://nextjs-developer-portfolio.vercel.app
 * Focused on projects and tech stack
 
